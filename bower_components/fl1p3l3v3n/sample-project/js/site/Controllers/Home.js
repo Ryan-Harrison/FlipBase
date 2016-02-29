@@ -40,6 +40,7 @@ Class(function Home() {
     function _events() {
         Evt.subscribe(window, Evt.RESIZE, _onResize);
         // _button.interact(_onOver, _onOut, _onClick);
+        //Nothing
     }
 
     function _onOver(){
