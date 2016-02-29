@@ -1,0 +1,28 @@
+{
+  "name": "fl1p3l3v3n",
+  "version": "0.5.18",
+  "authors": [
+    "Justin Schnor",
+    "Matt Engel"
+  ],
+  "description": "FL1P3L3V3N Framework",
+  "license": "Copyright Flipeleven 2015",
+  "homepage": "http://flipeleven.com",
+  "private": false,
+  "ignore": [],
+  "dependencies": {
+    "greensock": ">=1.14.2",
+    "history.js": ">=1.8.0",
+    "PreloadJS": "=0.6.1",
+    "fontawesome": ">=4.3.0"
+  },
+  "_release": "0.5.18",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.5.18",
+    "commit": "839d52d86060b8a15065f28992ef82e4fb22b774"
+  },
+  "_source": "git://github.com/jschnor/fl1p3l3v3n.git",
+  "_target": ">=0.5.14",
+  "_originalSource": "fl1p3l3v3n"
+}

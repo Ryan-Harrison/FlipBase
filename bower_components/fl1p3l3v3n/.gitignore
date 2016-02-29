@@ -1,0 +1,8 @@
+.project
+*.sublime-project
+*.sublime-workspace
+js/portfolio.json
+vendor/
+composer.lock
+node_modules
+bower_components
